@@ -1,0 +1,2 @@
+# checkout.js
+paypal checkout
